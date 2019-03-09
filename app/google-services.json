@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "428894191952",
+    "firebase_url": "https://bornosky-66795.firebaseio.com",
+    "project_id": "bornosky-66795",
+    "storage_bucket": "bornosky-66795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428894191952:android:8521cca873064b77",
+        "android_client_info": {
+          "package_name": "com.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428894191952-vdcomhpk1co3jrbi9au6obt3h2fkomiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.authentication",
+            "certificate_hash": "dfca1840555fb85fe7ad47b45e42d7e43c5a0758"
+          }
+        },
+        {
+          "client_id": "428894191952-lgnr53gpvjtqlk6104l6l9npsp669b8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqftO4CeGsQJ7to_NAnHUsP8plY2jwvSM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428894191952-lgnr53gpvjtqlk6104l6l9npsp669b8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
